@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="left">Hi 👋🏾, I'm Jordan</h1>
+<h4 align="left">A Software Engineer from Atlanta</h3>
 
-<!--
-**JordanBlount/jordanblount** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Teamly](https://github.com/JordanBlount/teamly)
+- 🌱 I’m currently learning Material UI, Next.js, Typescript
+- 📝 I regularly write articles and guides on [https://jordanblount.com](https://jordanblount.com)
+- 💬 I speak English (native), Portuguese 🇧🇷 (fluently), and Spanish (basic)
+- 💬 Fun fact - I beatbox while doing everything (it just happens sometimes hahaha)
 
-Here are some ideas to get you started:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jordanblount&show_icons=true&locale=en&layout=compact" alt="jordanblount" /></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jordanblount&show_icons=true&locale=en" alt="jordanblount" /></p>
+
+
+
+Make sure to check out my projects: [Pokedex](https://github.com/JordanBlount/pokedex), [Blackjack (21)](https://github.com/JordanBlount/the_game)
