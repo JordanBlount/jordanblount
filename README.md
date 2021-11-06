@@ -1,7 +1,7 @@
 <h1 align="left">Hey y'all, I'm Jordan 👋🏾</h1>
 <h4 align="left">A Software Engineer from Atlanta</h3>
 
-- 🔭 I’m currently working on [Teamly](https://github.com/JordanBlount/teamly)
+- 🔭 I’m currently working on a personal project called [Teamly](https://github.com/JordanBlount/teamly)
 - 🌱 I’m currently learning Material UI, Next.js, Typescript
 - 📝 I regularly write articles and guides on [https://jordanblount.com](https://jordanblount.com)
 - 💻 I'm a mostly self-taught programmer
