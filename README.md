@@ -7,9 +7,12 @@
 - 💻 I'm a mostly self-taught programmer
 - 💬 I speak English (native), Portuguese 🇧🇷 (fluently), and Spanish (basic)
 - 🗣 Fun fact - I beatbox while doing everything (it just happens sometimes hahaha)
-### Stats:
+
+### Connect: 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='24'>](https://www.linkedin.com/in/jordantblount/)
+
+## Stats:
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jordanblount&show_icons=true&locale=en&layout=compact" alt="jordanblount" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=jordanblount&show_icons=true&locale=en" alt="jordanblount" /></p>
 
 
 
