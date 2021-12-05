@@ -10,6 +10,8 @@
 
 Make sure to check out my projects: [Pokedex](https://github.com/JordanBlount/pokedex), [Blackjack (21)](https://github.com/JordanBlount/the_game)
 
+![Blackjack](https://github.com/JordanBlount/jordanblount/blob/main/screenshots/Screen%20Shot%202021-12-05%20at%206.18.21%20PM.png)
+
 ### Connect: 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='24'>](https://www.linkedin.com/in/jordanblount/)
 
