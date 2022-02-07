@@ -8,7 +8,7 @@
 - 💬 I speak English (native), Portuguese 🇧🇷 (fluently), and Spanish (basic)
 - 🗣 Fun fact - I beatbox while doing everything (it just happens sometimes hahaha)
 
-Make sure to check out my projects: [Pokedex](https://github.com/JordanBlount/pokedex), [Blackjack (21)](https://github.com/JordanBlount/the_game)
+Make sure to check out my projects: [Pokedex](https://github.com/JordanBlount/pokedex), [Blackjack (21)](https://github.com/JordanBlount/blackjack)
 
 ![Blackjack](https://github.com/JordanBlount/jordanblount/blob/main/screenshots/Screen%20Shot%202021-12-05%20at%206.18.21%20PM.png)
 
