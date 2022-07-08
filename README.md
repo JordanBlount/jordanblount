@@ -1,11 +1,12 @@
 <h1 align="left">Hey y'all, I'm Jordan 👋🏾</h1>
 <h4 align="left">A Software Engineer from Atlanta</h3>
 
+- 💻 I'm a mostly self-taught programmer. 
+- 🎓 Graduate from Per Scholas Software Engineering Bootcamp.
 - 🔭 I’m currently working on a personal project called [Teamly](https://github.com/JordanBlount/teamly)
-- 🌱 I’m currently learning Material UI, Next.js, Typescript
-- 📝 I regularly write articles and guides on [https://jordanblount.com](https://jordanblount.com)
-- 💻 I'm a mostly self-taught programmer
-- 💬 I speak English (native), Portuguese 🇧🇷 (fluently), and Spanish (basic)
+- 🌱 I’m currently learning Next.js, Typescript
+- 📝 Check out my personal portfolio: [https://jordanblount.com](https://jordanblount.com)
+- 💬 I speak English (native), Portuguese 🇧🇷 (fluently)
 - 🗣 Fun fact - I beatbox while doing everything (it just happens sometimes hahaha)
 
 Make sure to check out my projects: [Pokedex](https://github.com/JordanBlount/pokedex), [Blackjack (21)](https://github.com/JordanBlount/blackjack)
