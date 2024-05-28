@@ -3,8 +3,6 @@
 
 - 💻 I'm a mostly self-taught programmer. 
 - 🎓 Graduate from Per Scholas Software Engineering Bootcamp.
-- 🔭 I’m currently working on a personal project called [Teamly](https://github.com/JordanBlount/teamly)
-- 🌱 I’m currently learning Next.js, Typescript
 - 📝 Check out my personal portfolio: [https://jordanblount.com](https://jordanblount.com)
 - 💬 I speak English (native), Portuguese 🇧🇷 (fluently)
 - 🗣 Fun fact - I beatbox while doing everything (it just happens sometimes hahaha)
